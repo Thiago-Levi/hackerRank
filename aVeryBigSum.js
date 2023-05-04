@@ -1,3 +1,4 @@
+//HackerRank
 // aVeryBigSum
 
 const arrayOfIntegers = [
