@@ -16,5 +16,5 @@ function birthdayCakeCandles(candles) {
   console.log(countHeightCandle);
 }
 
-const candles = [3, 2, 1, 3, 2, 3, 3, 2, 1, 1];
+const candles = [3, 2, 1, 3, 3, 2, 3, 2, 1, 1];
 birthdayCakeCandles(candles);
